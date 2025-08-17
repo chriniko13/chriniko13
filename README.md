@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Nikolaos Christidis
 
-<!--
-**chriniko13/chriniko13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Software Consultant and founder of [PowerEng](https://github.com/PowerEngCompany), bringing deep expertise in the JVM ecosystem and strong Computer Science fundamentals to every project.
 
-Here are some ideas to get you started:
+🔹 I excel at reviving large, legacy codebases and delivering robust greenfield solutions using modern technology, best practices, and a results-driven approach.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 My technical skills span the breadth and depth of software engineering, with a particular focus on high-quality architecture, clean code, and long-term maintainability.
+
+🔹 The [pinned repositories](https://github.com/chriniko13?tab=pinned) showcase a tiny sample of what I can deliver.
+
+---
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/nikolaos-c-a00767172/)
+- 📧 nick.christidis@yahoo.com
+
+Feel free to reach out if you need help modernizing your software systems or want to build something exceptional from scratch!
